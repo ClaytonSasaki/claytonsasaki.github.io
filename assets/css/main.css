@@ -1223,6 +1223,14 @@ input[type="radio"] + label:before {
 .fa-cloud-bolt:before { content: "\f76c"; }
 .fa-mountain-sun:before { content: "\e52f"; }
 .fa-rocket:before { content: "\f135"; }
+.fa-code:before { content: "\f121"; }
+.fa-chart-line:before { content: "\f201"; }
+.fa-database:before { content: "\f1c0"; }
+.fa-terminal:before { content: "\f120"; }
+.fa-flask:before { content: "\f0c3"; }
+.fa-map:before { content: "\f279"; }
+.fa-cloud:before { content: "\f0c2"; }
+.fa-cog:before { content: "\f013"; }
 
 /* Image */
 .image {
